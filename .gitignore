@@ -1,0 +1,21 @@
+# Build and Release Folders
+build/
+test/
+
+# Other files and folders
+.settings/
+/package-lock.json
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
+
+#secrets
+.infura
+.secret
+.etherscan
+.auroratest
+
+/node_modules
+/.vscode
+/build
